@@ -1,0 +1,14 @@
+# Core scientific stack
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+
+# Optional but useful for environment reproducibility
+python-dotenv>=1.0.0
+
+# For precise timing and metrics logging
+tqdm>=4.66.0
+
+# Compatibility and plotting polish
+seaborn>=0.13.0

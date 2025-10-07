@@ -80,7 +80,7 @@ PrivBench automatically generates a **matplotlib plot** of accuracy vs. DP noise
 3. Run the benchmark
 
     ```bash
-   python dp_benchmark_full_metrics_avg.py
+   python benchmark.py
     ```
 4. View Ouputs
 

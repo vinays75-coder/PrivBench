@@ -36,7 +36,7 @@ PrivBench evaluates ML models along **four key dimensions**:
 
 **Dataset:** Wisconsin Breast Cancer Dataset  
 **Model:** Logistic Regression trained with DP-SGD  
-**Noise multipliers (σ):** 1.0, 5.0, 10.0  
+**Noise multipliers (σ):** 1.0, 5.0, 15.0  
 **δ:** 1e-5  
 
 | Setting                | σ    | μ (approx) | Accuracy | ROC–AUC | Fairness (DPD / EOD) | Train Time (s) |
